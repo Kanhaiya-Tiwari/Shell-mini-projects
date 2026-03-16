@@ -1,10 +1,7 @@
 
 
 ## ✅ **1️⃣ Shebang**
-
-```bash
 #!/bin/bash
-```
 
 👉 Tells Linux:
 
@@ -12,8 +9,8 @@
 
 Without it:
 
-❌ Wrong interpreter may run
-❌ Script may fail
+Wrong interpreter may run
+may fail
 
 ## ✅ **2️⃣ SOURCE Variable**
 
